@@ -26,6 +26,9 @@
   <!-- Custom styles for this template -->
   <link href="css/new-age.min.css" rel="stylesheet">
       <link href="css/style.css" rel="stylesheet">
+	  <link href="includes/presentacionbar.css" rel="stylesheet">
+	  <link href="includes/menudeldia.css" rel="stylesheet">
+	  <link href="includes/slider.css" rel="stylesheet">
 
 </head>
 
